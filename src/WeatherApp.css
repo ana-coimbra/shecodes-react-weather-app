@@ -1,0 +1,27 @@
+.WeatherApp .City h1 {
+  display: inline;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.WeatherApp .City .currentWeather {
+  font-size: 17px;
+  font-weight: 200;
+}
+
+.WeatherApp .City {
+  margin: 25px 0 0 10px;
+}
+
+.WeatherApp .col-md-5 {
+  padding: 0px;
+  margin-top: 260px;
+  text-align: center;
+  width: 33%;
+}
+
+.WeatherApp .col-md-7 {
+  padding: 0px;
+  margin: 340px 0 0 10px;
+  width: 65%;
+}

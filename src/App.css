@@ -1,0 +1,51 @@
+.App .containerApp {
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 880px;
+  height: 530px;
+  border-radius: 15px;
+  margin: 80px auto;
+}
+
+.App .row {
+  margin: 0px;
+  padding: 0px;
+}
+
+.App .col-4 {
+  width: 300px;
+  height: 530px;
+}
+
+.App .col-4 p {
+  display: inline;
+}
+
+.App .Search .searchCity {
+  border: none;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 200;
+  margin: 25px 0 0 10px;
+  padding: 6px;
+  text-indent: 8px;
+  opacity: 0.6;
+  width: 190px;
+}
+
+.App .Search .submitButton {
+  color: white;
+  background: none;
+  border: 0.5px solid white;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 200;
+  padding: 5.5px 10px;
+  margin-left: 5px;
+  transition: all 200ms ease-in-out;
+}
+
+.App .Search .submitButton:hover {
+  cursor: pointer;
+  opacity: 0.7;
+}

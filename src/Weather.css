@@ -1,0 +1,37 @@
+.Weather .Conversion {
+  font-size: 14px;
+  font-weight: 200;
+  position: relative;
+  bottom: 280px;
+  left: 440px;
+}
+
+.Weather .celsiusTemperature,
+.Weather .fahrenheitTemperature {
+  color: white;
+  text-decoration: none;
+}
+
+.Weather .celsiusTemperature:hover,
+.Weather .fahrenheitTemperature:hover {
+  color: white;
+  opacity: 0.6;
+}
+
+.Weather .celsiusTemperatureOff,
+.Weather .fahrenheitTemperatureOff {
+  color: white;
+  text-decoration: none;
+}
+
+.Weather h2 {
+  display: inline;
+  position: relative;
+  font-size: 90px;
+  font-weight: 300;
+}
+
+.Weather .degreeTemperature {
+  font-size: 95px;
+  font-weight: 200;
+}

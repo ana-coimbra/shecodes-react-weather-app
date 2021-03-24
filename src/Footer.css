@@ -1,0 +1,17 @@
+.Footer {
+  color: #a3a3a3;
+  font-size: 11px;
+  margin-top: 10px;
+}
+
+.Footer .gitHubRepository,
+.Footer .linkedinProfile {
+  color: #717c7d;
+  text-decoration: none;
+}
+
+.Footer .gitHubRepository:hover,
+.Footer .linkedinProfile:hover {
+  color: #717c7d;
+  text-decoration: underline;
+}

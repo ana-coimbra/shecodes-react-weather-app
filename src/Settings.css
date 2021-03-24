@@ -1,0 +1,11 @@
+.Settings {
+  margin: 15px 10px;
+  font-size: 13px;
+  font-weight: 200;
+}
+
+.Settings hr {
+  width: 200px;
+  background: linear-gradient(to right, white, transparent);
+  margin-bottom: 5px;
+}

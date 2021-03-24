@@ -1,0 +1,9 @@
+.Forecast {
+  margin: 40px 0 0 10px;
+}
+
+.Forecast .forecastName {
+  font-size: 14px;
+  font-weight: 300;
+  margin-bottom: 15px;
+}

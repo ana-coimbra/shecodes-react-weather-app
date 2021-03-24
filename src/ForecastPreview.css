@@ -1,0 +1,9 @@
+.ForecastPreview {
+  font-size: 13px;
+  font-weight: 200;
+  padding: 5px 0;
+}
+
+.ForecastPreview .forecastTemperature {
+  margin-left: 120px;
+}

@@ -1,0 +1,33 @@
+.Details {
+  margin: 50px 0 0 10px;
+}
+
+.Details .weatherDetails {
+  font-size: 14px;
+  font-weight: 300;
+  margin-bottom: 15px;
+}
+
+.Details .temperatureDetails,
+.Details .apparentTemperature,
+.Details .Humidity,
+.Details .Wind {
+  font-size: 13px;
+  padding: 5px 0;
+}
+
+.Details .temperatureDetails .temperatureValues {
+  margin-left: 120px;
+}
+
+.Details .apparentTemperature .temperatureValue {
+  margin-left: 140px;
+}
+
+.Details .Humidity .humidityValue {
+  margin-left: 144px;
+}
+
+.Details .Wind .windValue {
+  margin-left: 165px;
+}
